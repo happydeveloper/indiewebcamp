@@ -1,5 +1,5 @@
 <?php
-    require 'template.php';
+    require './Template.php';
     $system_path = 'system';
     define('BASEPATH', str_replace('\\', '/', $system_path));
 
