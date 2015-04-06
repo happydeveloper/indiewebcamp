@@ -47,7 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <li><a href="mailto:enfn2001@gmail.com">Email</a></li>
             <li><a href="http://www.facebook.com/enfn2001">Facebook</a></li>
             <li><a href="https://www.twitter.com/enfn2001"> Twitter</a></li>
-            <li><a href="https://www.tumblr.com/enfn2001">tumblr</a></li>
+            <li><a href="http://enfn2001.tumblr.com/">tumblr</a></li>
         </ul>
 
         <div id="disqus_thread"></div>
