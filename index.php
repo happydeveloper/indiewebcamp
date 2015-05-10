@@ -1,7 +1,7 @@
 <?php
     require './Template.php';
     require './Favorite.php';
-
+    
     $system_path = 'system';
     define('BASEPATH', str_replace('\\', '/', $system_path));
 
