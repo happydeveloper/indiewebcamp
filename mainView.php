@@ -36,6 +36,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <li><a href="http://codingeverybody.com/" target="_blank">facebook app - opentutorials facebook community</a></li>
         </ul>
 
+        <h2> Favorite Site </h2>
+        <ul>
+            <li><a href="http://ropipi.com/" target="_blank">비밀 일기장</a></li>
+            <li><a href=""></a></li>
+        </ul>
+
         <h2> thoughts </h2>
         <ul>
             <li><a href="http://www.duru.pe.kr/get.thinks/"> get thinks </a></li>
