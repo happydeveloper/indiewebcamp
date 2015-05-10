@@ -29,26 +29,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <?php echo $this->message2; ?>
         </article>
 
-        <h2> I made app</h2>
-        <ul>
-            <li><a href="http://ucloud.duru.pe.kr/fcmd/" target="_blank">facebook app - Searchable, quickFacebook </a></li>
+        <?php echo $this->iMadeApp; ?>
 
-            <li><a href="http://codingeverybody.com/" target="_blank">facebook app - opentutorials facebook community</a></li>
-        </ul>
+        <?php echo $this->favoriteSite; ?>
 
-        <h2> thoughts </h2>
-        <ul>
-            <li><a href="http://www.duru.pe.kr/get.thinks/"> get thinks </a></li>
-        </ul>
+        <?php echo $this->thoughts; ?>
 
-        <h2> Contact </h2>
-
-        <ul>
-            <li><a href="mailto:enfn2001@gmail.com">Email</a></li>
-            <li><a href="http://www.facebook.com/enfn2001">Facebook</a></li>
-            <li><a href="https://www.twitter.com/enfn2001"> Twitter</a></li>
-            <li><a href="http://enfn2001.tumblr.com/">tumblr</a></li>
-        </ul>
+        <?php echo $this->contact; ?>
 
         <div id="disqus_thread"></div>
         <script type="text/javascript" src="./disqus.js"></script>
