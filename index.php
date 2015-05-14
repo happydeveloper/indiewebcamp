@@ -1,6 +1,7 @@
 <?php
     require './Template.php';
     require './Favorite.php';
+    require './Make.php';
     
     $system_path = 'system';
     define('BASEPATH', str_replace('\\', '/', $system_path));
@@ -10,13 +11,9 @@
 
     $favorite = new Favorite();
 
-    $iMadeApp = "<h2> I made app</h2>
-        <ul>
-            <li><a href=\"http://ucloud.duru.pe.kr/fcmd/\" target=\"_blank\">facebook app - Searchable, quickFacebook </a></li>
+    $make = new Make();
 
-            <li><a href=\"http://codingeverybody.com/\" target=\"_blank\">facebook app - opentutorials facebook community</a></li>
-        </ul>";
-
+    $iMadeApp = $make->getFullLink();
     $favoriteSite = $favorite->getFullLink();
 
     $thoughts = "

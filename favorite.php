@@ -27,6 +27,5 @@ class Favorite
         $htmlStr = $htmlStr ."</ul>";
 
         return $htmlStr;
-
     }
 }
