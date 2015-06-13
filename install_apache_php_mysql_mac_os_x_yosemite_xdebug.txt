@@ -1,0 +1,7 @@
+http://jason.pureconcepts.net/2014/11/install-apache-php-mysql-mac-os-x-yosemite/
+
+https://www.computersnyou.com/3416/setup-xdebug-macosx-10-10-yosemite/
+
+http://stackoverflow.com/questions/19579401/php-xdebug-on-os-x-10-9-mavericks
+
+http://xdebug.org/docs/install

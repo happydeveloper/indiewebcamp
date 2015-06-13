@@ -13,12 +13,14 @@ class Favorite
 
         $site_url = array(
             "http://ropipi.com",
-            "http://boooki.com/ko/"
+            "http://boooki.com/ko/",
+            "http://www.opentutorials.org"
         );
 
         $site_title = array(
             "비밀 일기장",
-            "독후감"
+            "독후감",
+            "생활코딩"
         );
 
         $htmlStr = "<h2> ". $title ." </h2><ul>";
