@@ -40,4 +40,7 @@ class ResourceManager {
 
     static $txtMessage2 = "단지 간단하게;;";
 
+
+
+
 }

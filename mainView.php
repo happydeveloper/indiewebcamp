@@ -37,6 +37,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
         <?php echo $this->contact; ?>
 
+        //todolist
+        <?php echo "<br/>todolist-1"; ?>
+
+
         <div id="disqus_thread"></div>
         <script type="text/javascript" src="./disqus.js"></script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
