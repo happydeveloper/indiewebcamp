@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/1819447/get-a-list-of-all-functions-and-procedures-in-an-oracle-database
+
+Get a list of all functions and procedures in an Oracle databases.
+
+I am comparing three oracle schemas.
+I want to get a list of all the functions and procedures used in each
