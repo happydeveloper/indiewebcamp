@@ -9,7 +9,7 @@
 class Make {
     public function getFullLink(){
 
-        $title = "I made app";
+        $title = "내손으로 키보드를 두들기며 만들고 있는 무형의 것들";
 
         $site_title = array(
             "facebook app - opentutorials facebook community"

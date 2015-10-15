@@ -9,7 +9,7 @@
 class Favorite
 {
     public function getFullLink(){
-        $title = "Favorite Site";
+        $title = "좋아하는 웹서비스";
 
         $site_url = array(
             "http://ropipi.com",

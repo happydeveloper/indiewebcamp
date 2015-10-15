@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <body>
         <a href="/"><img src="https://indiewebcamp.com/wiki/skins/indieweb/indiewebcamp-logo-500px.png" width="155" alt="IndieWebCamp" class="u-logo"></a>
 
-        <h2> Indy Web - Getting Started </h2>
+        <h2> 독립 웹 - 시작하기 </h2>
 
         <div id='left'></div>
 

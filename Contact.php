@@ -11,7 +11,7 @@ class Contact {
     {
 
 
-         return "<h2> Contact </h2><a href=\"https://twitter.com/enfn2001\" rel=\"me\">@enfn2001</a>";
+         return "<h2> 연결점 </h2><a href=\"https://twitter.com/enfn2001\" rel=\"me\">@enfn2001</a>";
 
         /*
          *
