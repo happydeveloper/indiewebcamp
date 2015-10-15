@@ -32,13 +32,14 @@ class ResourceManager {
 
     복잡하지 않고 단순한 내 법칙을 만들어 가고 싶다.";
 
-
     static $drafting2 = "I am making doors that manage proof that my artcles, memo, taught, think, contents.";
 
 
-    static $txtMessage1 = "Just Simple;; ";
+    static $txtMessage1 = "Just Simplicity;; ";
 
     static $txtMessage2 = "단지 간단하게;;";
+
+    static $txtMessage3 = "간단함은 본래 목적에 집중하게 한다. 진정한 간단함이란 복잡성을 추상화 속에 감추고 알게 모르게 일을 수행하는 것 같다.";
 
 
 
