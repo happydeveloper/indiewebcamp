@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
         <article class="ko">
             <?php echo $this->message1; ?>
+            <?php echo $this->message3 ; ?>
         </article>
+
 
         <article class="en">
             <?php echo $this->message2; ?>
@@ -37,7 +39,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
         <?php echo $this->contact; ?>
 
-        //todolist
         <?php echo "<br/>todolist-1"; ?>
 
 

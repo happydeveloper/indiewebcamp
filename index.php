@@ -24,6 +24,7 @@
         array('title'=>"Door's door",
               'message1'=>ResourceManager::$txtMessage1,
               'message2'=>ResourceManager::$txtMessage2,
+              'message3'=>ResourceManager::$txtMessage3,
               'iMadeApp'=>$make->getFullLink(),
               'thoughts' => $thoughts->getFullHtml(),
               'contact' => $contact->getFullLink(),

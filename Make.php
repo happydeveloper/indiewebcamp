@@ -12,13 +12,11 @@ class Make {
         $title = "I made app";
 
         $site_title = array(
-            "facebook app - opentutorials facebook community",
-            "facebook app - Searchable, quickFacebook"
+            "facebook app - opentutorials facebook community"
         );
 
         $site_url = array(
-            "http://ucloud.duru.pe.kr/fcmd",
-            "http://codingeverybody.com"
+            "http://ucloud.duru.pe.kr/fcmd"
         );
 
 
