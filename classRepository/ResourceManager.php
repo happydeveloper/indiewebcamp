@@ -34,8 +34,9 @@ class ResourceManager {
 
     static $drafting2 = "I am making doors that manage proof that my artcles, memo, taught, think, contents.";
 
-
     //static $txtMessage1 = "Just Simplicity;; ";
+    static $txtHeader = "독립 웹 - 시작하기";
+
     static $txtMessage1 = "단지 간단함! ";
 
     static $txtMessage2 = "단지 단순함!";

@@ -11,13 +11,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
     <head>
         <meta http-equiv="Content-Type" Content="text/html; charset=utf-8" />
-        <script type="text/javascript" src="./google-analytics.js"></script>
+        <script type="text/javascript" src="../google-analytics.js"></script>
         <title><?php echo $this->title; ?></title>
     </head>
     <body>
         <a href="/"><img src="https://indiewebcamp.com/wiki/skins/indieweb/indiewebcamp-logo-500px.png" width="155" alt="IndieWebCamp" class="u-logo"></a>
 
-        <h2> 독립 웹 - 시작하기 </h2>
+        <h2> <?php echo $this->Header; ?> </h2>
 
         <div id='left'></div>
 
@@ -43,7 +43,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
         <div id="disqus_thread"></div>
-        <script type="text/javascript" src="./disqus.js"></script>
+        <script type="text/javascript" src="../disqus.js"></script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
     </body>
