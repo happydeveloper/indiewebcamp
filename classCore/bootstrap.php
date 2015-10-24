@@ -16,7 +16,6 @@ require './classThink/Thoughts.php';
 
 
 
-
 $favorite = new Favorite();
 $make = new Make();
 $contact = new Contact();
