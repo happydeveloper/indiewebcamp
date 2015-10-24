@@ -8,6 +8,17 @@
 
 class ResourceManager {
 
+
+    static $txtHeader = "독립 웹 - 시작하기";
+
+    static $txtMessage1 = "단지 간단함! ";
+
+    static $txtMessage2 = "단지 단순함!";
+
+    static $txtMessage3 = "간단함은 본래 목적에 집중하게 한다. 진정한 간단함이란 복잡성을 추상화 속에 감추고 알게 모르게 일을 수행하는 것 같다.";
+
+    static $msg2015102401 = "이고잉님오프라인강의-조교참여";
+
     static $drafting1 = "
     다양한 곳에 남겨 있는 나의 생각들 글들, 사진, 콘텐츠를 관리하는 체계를 만들고 있다.
     I am making system
@@ -33,15 +44,6 @@ class ResourceManager {
     복잡하지 않고 단순한 내 법칙을 만들어 가고 싶다.";
 
     static $drafting2 = "I am making doors that manage proof that my artcles, memo, taught, think, contents.";
-
-    //static $txtMessage1 = "Just Simplicity;; ";
-    static $txtHeader = "독립 웹 - 시작하기";
-
-    static $txtMessage1 = "단지 간단함! ";
-
-    static $txtMessage2 = "단지 단순함!";
-
-    static $txtMessage3 = "간단함은 본래 목적에 집중하게 한다. 진정한 간단함이란 복잡성을 추상화 속에 감추고 알게 모르게 일을 수행하는 것 같다.";
 
 
 
