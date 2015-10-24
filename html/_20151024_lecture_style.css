@@ -1,0 +1,16 @@
+h1 {
+    border-bottom: 1px solid gray;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+  border-right: 1px solid gray:
+  width: 200px;
+  float:left;
+}
+
+article {
+  border: 1px solid red;
+  width: 250px;
+  float: left;
+}
