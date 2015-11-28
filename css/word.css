@@ -54,7 +54,7 @@ body {
     list-style-type: none;
 }
 
-#word-display {
+.word-display {
     font-family: 'Nanum Brush Script', 'Nanum Gothic', 'Times New Roman', Serif;
     font-size: 150px;
     font-weight: 400;
@@ -62,6 +62,15 @@ body {
     line-height: 1.5;
     padding: 20px 160px 20px 160px;
     text-align: center;
+}
+
+.word-display a {
+    color: #3a3a3a;
+    text-decoration: none;
+}
+
+.word-display a:hover {
+    background-color: #e5e5e5;
 }
 #word-display:hover {
     background-color: #e5e5e5;
